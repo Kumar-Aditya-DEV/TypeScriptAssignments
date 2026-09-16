@@ -1,0 +1,15 @@
+{
+  "name": "food-ordering-system",
+  "version": "1.0.0",
+  "description": "Food Ordering and Billing System in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
